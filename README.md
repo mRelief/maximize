@@ -113,6 +113,8 @@ Congratulations! You're ready to contribute.
 
 ## Resources
 
+Here is a Ruby style guide [Ruby style guide.](https://github.com/rubocop-hq/ruby-style-guide)
+
 
 ## Code of Conduct
 
