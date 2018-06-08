@@ -23,7 +23,7 @@ After people have successfully enrolled in CalFresh through mRelief, we receive 
 
 ### Card Logistics
 
-Here are some exmaples of questions we receive:
+Here are some examples of questions we receive:
 
 ![](other-products.png)
 
@@ -35,8 +35,27 @@ Here are some exmaples of questions we receive:
 > “There is no thing as a single-issue struggle because we do not live single-issue lives.”
 > ― Audre Lorde
 
+We want to be able to refer our users to the best additional resources in their area when we receive questions like this -
+
+![](housing.png)
+
 
 ## The Need
+
+The purpose of this project is to provide helpful answers to all questions about the EBT card and help our users maximize their CalFresh benefits.
+
+This website will be shared with mRelief users as soon as their benefits are activated.
+
+### Who we are looking for?
+
+We are looking for women and non-binary developers of all experience levels who want to volunteer their time to make an impact with technology.
+
+All issues are categorized based on skill level, so if have just finished your first coding class or have been coding for years, we have features for your skill level.
+
+### How to get involved?
+
+For more information on how to get involved with this project, please email dize@mrelief.com.
+
 
 ## Tech Used
 
