@@ -19,6 +19,8 @@ Here is some coverage of our work: [National Geographic](https://news.nationalge
 
 ## Project Description
 
+mRelief currently provides an end-to-end process for people to enroll for CalFresh.
+
 After people have successfully enrolled in CalFresh through mRelief, we receive questions from our users about next steps. Here are some of the question types we receive.
 
 ### Card Logistics
@@ -113,3 +115,5 @@ Congratulations! You're ready to contribute.
 
 
 ## Code of Conduct
+
+We expect all contributors of this project to the adhere to the Code of Conduct guidlines outlined [here.](http://geekfeminism.wikia.com/wiki/Community_anti-harassment/Policy)
