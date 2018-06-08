@@ -59,7 +59,55 @@ For more information on how to get involved with this project, please email dize
 
 ## Tech Used
 
+- Ruby (v2.3.0)
+- Rails (v5.0.3)
+- React
+- PostgreSQL
+
 ## Setup instructions
+
+### Installing Ruby
+- Check if you already have Ruby installed
+```
+$ ruby -v
+```
+- If not...
+  1. Install RVM
+  ```
+  $ \curl -L https://get.rvm.io | bash -s stable
+  ```
+  1. Restart Terminal
+  1. Install Ruby
+  ```
+  $ rvm use ruby --install --default
+  ```
+
+### Installing Rails
+- Check if you already have Rails installed
+```
+$ rails --version
+```
+- If not...
+  1. Install Rails
+  ```
+  $ gem install rails
+  ```
+
+### Installing the Project
+```
+$ git clone git@github.com:mRelief/maximize.git
+```
+```
+$ bundle install
+```
+```
+$ npm install
+```
+```
+$ rails s
+```
+
+Congratulations! You're ready to contribute.
 
 ## Resources
 
