@@ -118,4 +118,4 @@ Here is a Ruby style guide [Ruby style guide.](https://github.com/rubocop-hq/rub
 
 ## Code of Conduct
 
-We expect all contributors of this project to the adhere to the Code of Conduct guidlines outlined [here.](http://geekfeminism.wikia.com/wiki/Community_anti-harassment/Policy)
+We expect all contributors of this project to the adhere to the Code of Conduct guidlines outlined [here.](./CODE_OF_CONDUCT.md)
